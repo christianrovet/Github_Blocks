@@ -1,0 +1,30 @@
+*{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 75px;
+    color:maroon;
+}
+
+.row1{
+    display:flex;
+    background-color:lightcoral;
+    justify-content: center;
+}
+.row2{
+    display:flex;
+    background-color:darkslategray;
+    justify-content: center;
+}
+.row3{
+    display:flex;
+    background-color:saddlebrown;
+    justify-content: center;
+}
+
+img{ 
+    width: 250px;
+    margin: 10px 40px;
+}
